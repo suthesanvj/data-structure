@@ -14,16 +14,16 @@ LIST OF EXPERIMENTS
 
 day 2 (26-08-2023)
 list of experiment
-1.linear search
-2.binary search
-3.heap sort
-4.merge sort
-5.insertion sort
-6.quick sort
-7.display missing element
-8.array-sum of rows and columns
-9.frequently repeated element in an array
-10.stalk array
+1. linear search
+2. binary search
+3. heap sort
+4. merge sort
+5. insertion sort
+6. quick sort
+7. display missing element
+8. array-sum of rows and columns
+9. frequently repeated element in an array
+10. stalk array
 
 day 3(28-08-2023)
 list of experiments
